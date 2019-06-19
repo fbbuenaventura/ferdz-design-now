@@ -3,6 +3,8 @@
     "name": "portfolio",
     "builds": [
         { "src": "*.php", "use": "@now/php" }
+    ],
+    "builds": [
         { "src": "package.json", "use": "@now/next" }
     ]
 }
