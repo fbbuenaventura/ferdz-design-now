@@ -1,1 +1,1 @@
-<?php echo "Hello from PHP on Now 2.0!"; ?>
+<?php echo "Hello Ferdz, from PHP on Now 2.0!"; ?>
